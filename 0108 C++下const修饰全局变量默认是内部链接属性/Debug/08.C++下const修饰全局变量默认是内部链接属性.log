@@ -1,0 +1,5 @@
+﻿  08.C++下const修饰全局变量默认是内部链接属性.cpp
+  test.cpp
+F:\Git Repo\C_Cpp\0108 C++下const修饰全局变量默认是内部链接属性\test.cpp(1,1): warning C4828: 文件包含在偏移 0x4f 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  08.C++下const修饰全局变量默认是内部链接属性.vcxproj -> F:\Git Repo\C_Cpp\Debug\0108 C++下const修饰全局变量默认是内部链接属性.exe
