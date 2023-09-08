@@ -19,4 +19,7 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\01 函数模板\01 函数模板.vcxproj.filters" />
+  </ItemGroup>
 </Project>

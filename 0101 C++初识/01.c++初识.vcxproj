@@ -81,6 +81,9 @@
   <ItemGroup>
     <ClCompile Include="01.C++初识.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\01 函数模板\01 函数模板.vcxproj.filters" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
