@@ -97,7 +97,7 @@ int main(){
 	//test03();
 	//test04();
 	//test05();
-	test06();
+	//test06();
 
 
 	system("pause");

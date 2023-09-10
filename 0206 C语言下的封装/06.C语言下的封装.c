@@ -47,7 +47,7 @@ void test02()
 	struct Person p;
 	strcpy(p.name, "ÀÏÍõ");
 
-	DogEat(&p);
+	//DogEat(&p);
 
 }
 
@@ -55,7 +55,7 @@ void test02()
 
 int main(){
 //	test01();
-	test02();
+//	test02();
 
 	system("pause");
 	return EXIT_SUCCESS;

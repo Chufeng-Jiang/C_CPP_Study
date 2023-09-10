@@ -1,3 +1,0 @@
-﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(03 左移运算符重载.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  03 左移运算符重载.cpp
-  03 左移运算符重载.vcxproj -> F:\Git Repo\C_Cpp\Debug\0503 左移运算符重载.exe

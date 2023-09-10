@@ -45,7 +45,7 @@ void test01()
 int& func()
 {
 	int a = 10;
-	return a;
+//	return a;
 }
 
 //引用注意事项
